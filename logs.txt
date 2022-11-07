@@ -1,0 +1,106 @@
+duplicate definition - AssetLogic__getTokenIndexFromStableSwapPool_notExist()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleOutgoingAsset_notNative()
+duplicate definition - AssetLogic__getTokenIndexFromStableSwapPool_notExist()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleOutgoingAsset_notNative()
+duplicate definition - AssetLogic__getTokenIndexFromStableSwapPool_notExist()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleOutgoingAsset_notNative()
+{"level":30,"time":1667844686493,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkBase","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/10","origin":"syncProviders"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/9","name":"syncProviders"},"highestBlockNumber":7910742,"leadProvider":"goerli.infura","providers":[{"url":"goerli.infura","blockNumber":7910742,"lag":0,"synced":true,"metrics":{"reliability":1,"latency":0.39,"cps":0.2,"priority":-10.270505778218233}}],"intendedLevel":"debug","msg":"Synced provider(s)."}
+{"level":30,"time":1667844686636,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkRouter","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/21","origin":"syncProviders"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/20","name":"syncProviders"},"highestBlockNumber":7910742,"leadProvider":"goerli.infura","providers":[{"url":"goerli.infura","blockNumber":7910742,"lag":0,"synced":true,"metrics":{"reliability":1,"latency":0.35,"cps":0.2,"priority":-10.285745765035342}}],"intendedLevel":"debug","msg":"Synced provider(s)."}
+duplicate definition - AssetLogic__getTokenIndexFromStableSwapPool_notExist()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleOutgoingAsset_notNative()
+duplicate definition - AssetLogic__getTokenIndexFromStableSwapPool_notExist()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_feeOnTransferNotSupported()
+duplicate definition - AssetLogic__handleIncomingAsset_nativeAssetNotSupported()
+duplicate definition - AssetLogic__handleOutgoingAsset_notNative()
+{"level":30,"time":1667844686680,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkBase","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/45","origin":"approveIfNeeded"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/44","name":"approveIfNeeded"},"domain":"1735353714","assetId":"0x7ea6eA49B0b0Ae9c5db7907d139D9Cd3439862a1","amount":"1000000000000000000","signerAddress":"0x1cA31FBD96258Fc7Af4E75Df1ab412CfBd4c146a","msg":"Method start"}
+{"level":30,"time":1667844686699,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkBase","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/6","origin":"syncProviders"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/5","name":"syncProviders"},"highestBlockNumber":29031504,"leadProvider":"rpc-mumbai.matic","providers":[{"url":"rpc-mumbai.matic","blockNumber":29031504,"lag":0,"synced":true,"metrics":{"reliability":1,"latency":0.6,"cps":0.2,"priority":-9.663519194009684}}],"intendedLevel":"debug","msg":"Synced provider(s)."}
+{"level":30,"time":1667844686725,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkRouter","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/17","origin":"syncProviders"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/16","name":"syncProviders"},"highestBlockNumber":29031504,"leadProvider":"rpc-mumbai.matic","providers":[{"url":"rpc-mumbai.matic","blockNumber":29031504,"lag":0,"synced":true,"metrics":{"reliability":1,"latency":0.435,"cps":0.3,"priority":-10.2965021724848}}],"intendedLevel":"debug","msg":"Synced provider(s)."}
+{"level":30,"time":1667844686886,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkPool","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/39","origin":"syncProviders"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/38","name":"syncProviders"},"highestBlockNumber":29031504,"leadProvider":"rpc-mumbai.matic","providers":[{"url":"rpc-mumbai.matic","blockNumber":29031504,"lag":0,"synced":true,"metrics":{"reliability":1,"latency":0.2,"cps":0.2,"priority":-10.082524088304353}}],"intendedLevel":"debug","msg":"Synced provider(s)."}
+{"level":30,"time":1667844686936,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkStableSwap","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/32","origin":"syncProviders"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/31","name":"syncProviders"},"highestBlockNumber":7910742,"leadProvider":"goerli.infura","providers":[{"url":"goerli.infura","blockNumber":7910742,"lag":0,"synced":true,"metrics":{"reliability":1,"latency":0.45,"cps":0.2,"priority":-10.194493758966775}}],"intendedLevel":"debug","msg":"Synced provider(s)."}
+{"level":30,"time":1667844687161,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkPool","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/43","origin":"syncProviders"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/42","name":"syncProviders"},"highestBlockNumber":7910742,"leadProvider":"goerli.infura","providers":[{"url":"goerli.infura","blockNumber":7910742,"lag":0,"synced":true,"metrics":{"reliability":1,"latency":0.47,"cps":0.2,"priority":-10.22659494358376}}],"intendedLevel":"debug","msg":"Synced provider(s)."}
+{"level":30,"time":1667844687174,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkBase","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/45","origin":"approveIfNeeded"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/44","name":"approveIfNeeded"},"approved":"115792089237316195423570985008687907853269984665640564039457584007913129639935","msg":"Got approved tokens"}
+{"level":30,"time":1667844687175,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkBase","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/45","origin":"approveIfNeeded"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/44","name":"approveIfNeeded"},"approved":"115792089237316195423570985008687907853269984665640564039457584007913129639935","amount":"1000000000000000000","msg":"Allowance sufficient"}
+{"level":30,"time":1667844687187,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkStableSwap","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/28","origin":"syncProviders"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/27","name":"syncProviders"},"highestBlockNumber":29031504,"leadProvider":"rpc-mumbai.matic","providers":[{"url":"rpc-mumbai.matic","blockNumber":29031504,"lag":0,"synced":true,"metrics":{"reliability":1,"latency":0.4333333333333333,"cps":0.3,"priority":-10.63842176121928}}],"intendedLevel":"debug","msg":"Synced provider(s)."}
+{"level":30,"time":1667844713189,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkBase","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/47","origin":"xcall"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/46","name":"xcall"},"args":{"origin":"1735353714","destination":"9991","to":"0x1cA31FBD96258Fc7Af4E75Df1ab412CfBd4c146a","asset":"0x7ea6eA49B0b0Ae9c5db7907d139D9Cd3439862a1","delegate":"0x1cA31FBD96258Fc7Af4E75Df1ab412CfBd4c146a","amount":"1000000000000000000","slippage":"30","callData":"0x","relayerFee":"0"},"msg":"Method start"}
+{"level":30,"time":1667844713196,"pid":23591,"hostname":"192-168-0-137.local","name":"NxtpSdkBase","requestContext":{"id":"uUrcturzTLmg0myLVSe5XA/47","origin":"xcall"},"methodContext":{"id":"uUrcturzTLmg0myLVSe5XA/46","name":"xcall"},"args":{"origin":"1735353714","destination":"9991","to":"0x1cA31FBD96258Fc7Af4E75Df1ab412CfBd4c146a","asset":"0x7ea6eA49B0b0Ae9c5db7907d139D9Cd3439862a1","delegate":"0x1cA31FBD96258Fc7Af4E75Df1ab412CfBd4c146a","amount":"1000000000000000000","slippage":"30","callData":"0x","relayerFee":"0"},"to":"0x99A784d082476E551E5fc918ce3d849f2b8e89B6","from":"0x1cA31FBD96258Fc7Af4E75Df1ab412CfBd4c146a","value":"0","msg":"XCall transaction formatted."}
+/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/logger/lib/index.js:238
+        var error = new Error(message);
+                    ^
+
+Error: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":84,\"error\":{\"code\":-32000,\"message\":\"insufficient funds for gas * price + value\"}}","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f9017305078459682f00851a0e1e663e8401312d009499a784d082476e551e5fc918ce3d849f2b8e89b680b901048aac16ba00000000000000000000000000000000000000000000000000000000000027070000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000007ea6ea49b0b0ae9c5db7907d139d9cd3439862a10000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000000000000000000000000000000de0b6b3a7640000000000000000000000000000000000000000000000000000000000000000001e00000000000000000000000000000000000000000000000000000000000000e00000000000000000000000000000000000000000000000000000000000000000c001a025be2e60edf3ecbd22aef50532c39b4c01b0c60c1e4edb7b367d60f4a91760a8a0037cec549acc87f204c8aa132098ac82dfccf5d75bf6fd85f8979c8b1cde946a\"],\"id\":84,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://goerli.infura.io/v3/19d34e1e01f849b482a6586994f60293"}, method="sendTransaction", transaction="0x02f9017305078459682f00851a0e1e663e8401312d009499a784d082476e551e5fc918ce3d849f2b8e89b680b901048aac16ba00000000000000000000000000000000000000000000000000000000000027070000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000007ea6ea49b0b0ae9c5db7907d139d9cd3439862a10000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000000000000000000000000000000de0b6b3a7640000000000000000000000000000000000000000000000000000000000000000001e00000000000000000000000000000000000000000000000000000000000000e00000000000000000000000000000000000000000000000000000000000000000c001a025be2e60edf3ecbd22aef50532c39b4c01b0c60c1e4edb7b367d60f4a91760a8a0037cec549acc87f204c8aa132098ac82dfccf5d75bf6fd85f8979c8b1cde946a", code=INSUFFICIENT_FUNDS, version=providers/5.7.2)
+    at Logger.makeError (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/logger/lib/index.js:238:21)
+    at Logger.throwError (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/logger/lib/index.js:247:20)
+    at checkError (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/providers/lib/json-rpc-provider.js:144:16)
+    at JsonRpcProvider.<anonymous> (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/providers/lib/json-rpc-provider.js:751:47)
+    at step (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/providers/lib/json-rpc-provider.js:48:23)
+    at Object.throw (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/providers/lib/json-rpc-provider.js:29:53)
+    at rejected (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/providers/lib/json-rpc-provider.js:21:65)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+  reason: 'insufficient funds for intrinsic transaction cost',
+  code: 'INSUFFICIENT_FUNDS',
+  error: Error: processing response error (body="{\"jsonrpc\":\"2.0\",\"id\":84,\"error\":{\"code\":-32000,\"message\":\"insufficient funds for gas * price + value\"}}", error={"code":-32000}, requestBody="{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f9017305078459682f00851a0e1e663e8401312d009499a784d082476e551e5fc918ce3d849f2b8e89b680b901048aac16ba00000000000000000000000000000000000000000000000000000000000027070000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000007ea6ea49b0b0ae9c5db7907d139d9cd3439862a10000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000000000000000000000000000000de0b6b3a7640000000000000000000000000000000000000000000000000000000000000000001e00000000000000000000000000000000000000000000000000000000000000e00000000000000000000000000000000000000000000000000000000000000000c001a025be2e60edf3ecbd22aef50532c39b4c01b0c60c1e4edb7b367d60f4a91760a8a0037cec549acc87f204c8aa132098ac82dfccf5d75bf6fd85f8979c8b1cde946a\"],\"id\":84,\"jsonrpc\":\"2.0\"}", requestMethod="POST", url="https://goerli.infura.io/v3/19d34e1e01f849b482a6586994f60293", code=SERVER_ERROR, version=web/5.7.1)
+      at Logger.makeError (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/logger/lib/index.js:238:21)
+      at Logger.throwError (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/logger/lib/index.js:247:20)
+      at /Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:313:32
+      at step (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:33:23)
+      at Object.next (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:14:53)
+      at fulfilled (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:5:58)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+    reason: 'processing response error',
+    code: 'SERVER_ERROR',
+    body: '{"jsonrpc":"2.0","id":84,"error":{"code":-32000,"message":"insufficient funds for gas * price + value"}}',
+    error: Error: insufficient funds for gas * price + value
+        at getResult (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/providers/lib/json-rpc-provider.js:191:21)
+        at processJsonFunc (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:356:22)
+        at /Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:288:46
+        at step (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:33:23)
+        at Object.next (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:14:53)
+        at fulfilled (/Users/vlad/Desktop/connext-bridge/node_modules/@ethersproject/web/lib/index.js:5:58)
+        at processTicksAndRejections (internal/process/task_queues.js:95:5) {
+      code: -32000,
+      data: undefined
+    },
+    requestBody: '{"method":"eth_sendRawTransaction","params":["0x02f9017305078459682f00851a0e1e663e8401312d009499a784d082476e551e5fc918ce3d849f2b8e89b680b901048aac16ba00000000000000000000000000000000000000000000000000000000000027070000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000007ea6ea49b0b0ae9c5db7907d139d9cd3439862a10000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000000000000000000000000000000de0b6b3a7640000000000000000000000000000000000000000000000000000000000000000001e00000000000000000000000000000000000000000000000000000000000000e00000000000000000000000000000000000000000000000000000000000000000c001a025be2e60edf3ecbd22aef50532c39b4c01b0c60c1e4edb7b367d60f4a91760a8a0037cec549acc87f204c8aa132098ac82dfccf5d75bf6fd85f8979c8b1cde946a"],"id":84,"jsonrpc":"2.0"}',
+    requestMethod: 'POST',
+    url: 'https://goerli.infura.io/v3/19d34e1e01f849b482a6586994f60293'
+  },
+  method: 'sendTransaction',
+  transaction: {
+    type: 2,
+    chainId: 5,
+    nonce: 7,
+    maxPriorityFeePerGas: BigNumber { _hex: '0x59682f00', _isBigNumber: true },
+    maxFeePerGas: BigNumber { _hex: '0x1a0e1e663e', _isBigNumber: true },
+    gasPrice: null,
+    gasLimit: BigNumber { _hex: '0x01312d00', _isBigNumber: true },
+    to: '0x99A784d082476E551E5fc918ce3d849f2b8e89B6',
+    value: BigNumber { _hex: '0x00', _isBigNumber: true },
+    data: '0x8aac16ba00000000000000000000000000000000000000000000000000000000000027070000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000007ea6ea49b0b0ae9c5db7907d139d9cd3439862a10000000000000000000000001ca31fbd96258fc7af4e75df1ab412cfbd4c146a0000000000000000000000000000000000000000000000000de0b6b3a7640000000000000000000000000000000000000000000000000000000000000000001e00000000000000000000000000000000000000000000000000000000000000e00000000000000000000000000000000000000000000000000000000000000000',
+    accessList: [],
+    hash: '0x3d219bc17584b52de10a95139a85477f8f54e98bb9bc161311ee2c067767c448',
+    v: 1,
+    r: '0x25be2e60edf3ecbd22aef50532c39b4c01b0c60c1e4edb7b367d60f4a91760a8',
+    s: '0x037cec549acc87f204c8aa132098ac82dfccf5d75bf6fd85f8979c8b1cde946a',
+    from: '0x1cA31FBD96258Fc7Af4E75Df1ab412CfBd4c146a',
+    confirmations: 0
+  },
+  transactionHash: '0x3d219bc17584b52de10a95139a85477f8f54e98bb9bc161311ee2c067767c448'
+}
