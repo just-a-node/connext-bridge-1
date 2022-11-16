@@ -2,7 +2,7 @@ import { create, NxtpSdkConfig } from "@connext/nxtp-sdk";
 import { ethers } from "ethers";
 
 // Instantiate a Wallet object using your private key (i.e. from Metamask) and use it as a Signer.
-const privateKey = "<PRIVATE_KEY>>";
+const privateKey = "PRIVATE_KEY";
 let signer = new ethers.Wallet(privateKey);
 
 // Connext to a Provider on the sending chain. You can use a provider like Infura (https://infura.io/) or Alchemy (https://www.alchemy.com/).
